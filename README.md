@@ -11,3 +11,7 @@ To build the image, just run:
 	vagrant package --base <vm-name>
 
 where `<vm-name>` is the name of the VM which has been created.
+
+The list of VM can be accessed using:
+
+	VBoxManage list vms
