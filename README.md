@@ -1,7 +1,7 @@
 vagrant-jdk8
 ============
 
-Sources for creating the Vagrant Cloud `nemerosa/jdk8` image.
+Sources for creating the Vagrant Cloud [`nemerosa/jdk8`](https://vagrantcloud.com/nemerosa/boxes/jdk8) image.
 
 JDK8 image for Vagrant.
 
